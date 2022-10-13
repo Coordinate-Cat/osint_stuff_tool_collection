@@ -8,8 +8,7 @@
      <br>
 </div>
 
-
-Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective) I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 1000+ services for a wide variety of purposes).
+こんにちは！私の Twitter アカウント[@cyb_detective](https://twitter.com/cyb_detective)では、さまざまなサービス、テクニック、トリック、OSINT に関するメモなどを投稿しています。このコレクションのツイートからすべてのリンクを収集します(さまざまな目的で既に1000以上のサービスがあります)。
 
 ## [](#table-of-contents) Table of contents
 - [地図、位置情報、交通機関](#maps-geolocation-and-transport)
