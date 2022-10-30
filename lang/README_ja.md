@@ -9,31 +9,30 @@
      <p>EN | <a href="">JA</a></p>
 </div>
 
+こんにちは！私の Twitter アカウント[@cyb_detective](https://twitter.com/cyb_detective)では、さまざまなサービス、テクニック、トリック、OSINT に関するメモなどを投稿しています。コレクションに関するツイートからすべてのリンクを掲載しています(既にさまざまな目的で1000以上のサービスがあります)。
 
-Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective) I post different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 1000+ services for a wide variety of purposes).
-
-## [](#table-of-contents) Table of contents
-- [Maps, Geolocation and Transport](#maps-geolocation-and-transport)
-    - [Social media and photos](#social-media-and-photos)
-    - [Nature](#nature)
-    - [Aviation](#aviation)
-    - [Maritime](#maritime)
-    - [Railway](#railway)
-    - [Routes](#routes)
-    - [Politics, conflicts and crisis](#politics-conflicts-and-crisis)
-    - [Urban and industrial infrastructure](#urban-and-industrial-infrastructure)
-    - [Culture](#culture)
-    - [Worldwide street webcams](#worldwide-street-webcams)
-    - [Tools](#tools)
-    - [Transport](#transport)
-    - [Communications, Internet, Technologies](#communications-internet-technologies)
-    - [Anomalies and Lost Places](#anomalies-and-lost-places)
-    - [Street View](#street-view)
-    - [Satellite/aerial imagery](#satelliteaerial-imagery)
-    - [Military tracking](#military-tracking)
-    - [Military visalisation](#military-visalisation)
-    - [Other](#other)
-- [Social Media](#social-media)
+## [](#table-of-contents) 目次
+- [地図、位置情報、交通機関](#maps-geolocation-and-transport)
+    - [ソーシャルメディアと写真](#social-media-and-photos)
+    - [自然](#nature)
+    - [航空](#aviation)
+    - [海自](#maritime)
+    - [鉄道](#railway)
+    - [経路](#routes)
+    - [政治、紛争、危機](#politics-conflicts-and-crisis)
+    - [都市、産業インフラ](#urban-and-industrial-infrastructure)
+    - [文化](#culture)
+    - [世界中のストリートウェブカメラ](#worldwide-street-webcams)
+    - [ツール](#tools)
+    - [輸送](#transport)
+    - [コミュニケーション、インターネット、テクノロジー](#communications-internet-technologies)
+    - [異常、失われた場所](#anomalies-and-lost-places)
+    - [ストリートビュー](#street-view)
+    - [衛星、航空写真](#satelliteaerial-imagery)
+    - [軍事追跡](#military-tracking)
+    - [軍事可視化](#military-visalisation)
+    - [その他](#other)
+- [ソーシャルメディア](#social-media)
     - [Twitter](#twitter)
     - [YouTube](#youtube)
     - [TikTok](#tiktok)
@@ -67,7 +66,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
     - [Udemy](#udemy)
     - [Universal](#universal)
     - [Downloaders](#downloaders)
-- [Domain/IP/Links](#domainiplinks)
+- [ドメイン/IP/リンク](#domainiplinks)
     - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)
     - [Searchers, scrapers, extractors, parsers](#searchers-scrapers-extractors-parsers)
     - [Redirect lookup](#redirect-lookup)
@@ -84,27 +83,27 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
     - [Source Code Analyzes](#source-code-analyzes)
     - [Broken Links Checkers](#broken-links-checkers)
     - [URL unshorteners](#url-unshorteners)
-- [Text Analyze](#text-analyze)
-- [Sound indefication and analyze](#sound-indefication-and-analyze)
-- [Sound search and analyze](#sound-search-and-analyze)
-- [Video editing and analyze](#video-editing-and-analyze)
-- [Image Search and Identification](#image-search-and-identification)
-    - [Reverse Image Search Engines and automation tools](#reverse-image-search-engines-and-automation-tools)
-    - [Image editing tools](#image-editing-tools)
-    - [Other Image Search Engines](#other-image-search-engines)
-    - [Image Analyze](#image-analyze)
-    - [Exif Analyze and editing](#exif-analyze-and-editing)
-    - [Face recognition and search](#face-recognition-and-search)
-    - [Font Indenfication](#font-indenfication)
-- [Cryptocurrencies](#cryptocurrencies)
-- [Messengers](#messengers)
+- [テキスト分析](#text-analyze)
+- [音の識別と分析](#sound-indefication-and-analyze)
+- [音の識別と分析](#sound-search-and-analyze)
+- [ビデオの編集と分析](#video-editing-and-analyze)
+- [画像検索と識別](#image-search-and-identification)
+    - [逆画像検索エンジンと自動化ツール](#reverse-image-search-engines-and-automation-tools)
+    - [画像編集ツール](#image-editing-tools)
+    - [その他の画像検索エンジン](#other-image-search-engines)
+    - [画像解析](#image-analyze)
+    - [Exif解析と編集](#exif-analyze-and-editing)
+    - [顔認識と検索](#face-recognition-and-search)
+    - [フォント識別](#font-indenfication)
+- [暗号通貨](#cryptocurrencies)
+- [メッセンジャー](#messengers)
     - [Telegram](#telegram)
     - [WhatsApp](#whatsapp)
     - [Kik](#kik)
     - [Slack](#slack)
     - [Skype](#skype)
-- [Code](#code)
-- [Search engines](#search-engines)
+- [コード](#code)
+- [検索エンジン](#search-engines)
     - [Universal search tools](#universal-search-tools)
     - [Darknet/deepweb search tools](#darknetdeepweb-search-tools)
     - [Public buckets search tools](#public-buckets-search-tools)
@@ -113,112 +112,112 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
     - [Tools for DuckDuckGo](#tools-for-duckduckgo)
     - [Tools for Google](#tools-for-google)
 - [IOT](#iot)
-- [Archives](#archives)
+- [アーカイブ](#archives)
     - [Tools for working with web archives](#tools-for-working-with-web-archives)
     - [Archives of documents/newspapers](#archives-of-documentsnewspapers)
     - [Tools for working with WARC (WebARChive) files](#warc)
-- [Datasets](#datasets)
-- [Science](#science)
-- [Passwords](#passwords)
-- [Emails](#emails)
-- [Nicknames](#nicknames)
-- [Phone numbers](#phone-numbers)
-- [Universal Contact Search and Leaks Search](#universal-contact-search-and-leaks-search)
-- [Sock Puppets](#sock-puppets)
-- [NOOSINT tools](#noosint-tools)
-- [Visualization tools](#visualization-tools)
-- [Routine/Data Extraction Automation](#routinedata-extraction-automation)
-- [Browser analyze](#browser-analyze)
-- [Files](#files)
-- [IMEI and serial numbers](#imei-and-serial-numbers)
+- [データセット](#datasets)
+- [化学](#science)
+- [パスワード](#passwords)
+- [メール](#emails)
+- [ニックネーム](#nicknames)
+- [電話番号](#phone-numbers)
+- [汎用連絡先検索とリーク検索](#universal-contact-search-and-leaks-search)
+- [多重アカウント](#sock-puppets)
+- [NO OSINTツール](#noosint-tools)
+- [可視化ツール](#visualization-tools)
+- [ルーチン/データ抽出の自動化](#routinedata-extraction-automation)
+- [ブラウザ分析](#browser-analyze)
+- [ファイル](#files)
+- [IMEIとシリアル番号](#imei-and-serial-numbers)
 - [NFT](#nft)
-- [Keywords, trends, news analytics](#keywords-trends-news-analytics)
-- [Apps and programs](#apps-and-programs)
-- [Company information search](#company-information-search)
-- [Bank information search](#bank-information-search)
-- [Brand/trademark information search](#brandtrademark-information-search)
-- [Tender/shipment information search](#tendershipment-information-search)
-- [Amazon](#amazon)
-- [Movies](#movies)
-- [Netflix](#netflix)
-- [TV/Radio](#tvradio)
-- [Tools collections/toolkits](#tools-collectionstoolkits)
-- [Databases and data analyzes](#databases-and-data-analyzes)
-- [Online OS Emulators](#online-os-emulators)
-- [Virtual Machines/Linux distributions](#virtual-machineslinux-distributions)
-- [My Projects](#my-projects)
+- [キーワード、トレンド、ニュース分析](#keywords-trends-news-analytics)
+- [アプリとプログラム](#apps-and-programs)
+- [会社情報検索](#company-information-search)
+- [銀行情報検索](#bank-information-search)
+- [ブランド/商標情報検索](#brandtrademark-information-search)
+- [入札/出荷情報検索](#tendershipment-information-search)
+- [アマゾン](#amazon)
+- [映画](#movies)
+- [ネットフリックス](#netflix)
+- [テレビ/ラジオ](#tvradio)
+- [ツールコレクション/ツールキット](#tools-collectionstoolkits)
+- [データベースとデータ分析](#databases-and-data-analyzes)
+- [オンラインOSエミュレーター](#online-os-emulators)
+- [仮想マシン/Linuxディストリビューション](#virtual-machineslinux-distributions)
+- [マイプロジェクト](#my-projects)
 
-[](#maps-geolocation-and-transport)Maps, Geolocation and Transport
+[](#maps-geolocation-and-transport) 地図、位置情報、交通機関
 ==================================================================
 
-### [](#social-media-and-photos)Social media and photos
+### [](#social-media-and-photos) ソーシャルメディアと写真
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
-| [Apps.skylens.io](https://app.skylens.io/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
-| [photo-map.ru](http://photo-map.ru/) | search geotagged photos from VK.com |
+| [Apps.skylens.io](https://app.skylens.io/) | 5つのソーシャルネットワークのジオタグ付き投稿を1つの地図上に一度に表示（Twitter、YouTube、Instagram、Flickr、Vkontakte） |
+| [photo-map.ru](http://photo-map.ru/) | VK.comからジオタグ付きの写真を検索します。 |
 | [Snapchat map](https://map.snapchat.com/) |     |
-| [YouTube Geofind](https://mattw.io/youtube-geofind/) | view YouTube geottaged video on map |
+| [YouTube Geofind](https://mattw.io/youtube-geofind/) | 地図上でYouTubeのジオタグビデオを表示します。 |
 | [Flickr Photo Map](https://www.flickr.com/map) |     |
-| [Flickr Common Map](http://www.whatsthatpicture.com/flickr/commons-map.php) | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) |
-| [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | geottaged photo from Instagram with #cat hashtag |
-| [Trendsmap.com](https://www.trendsmap.com/map) | Explore most popular #Twitter trends, hashtags and users on the worldmap |
-| [Pastvu.com](https://pastvu.com/) | View historical photos taken at a particular location on a map. |
-| [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
-| [WikiShootMe](https://wikishootme.toolforge.org/) | Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account. |
-| [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) | Click on a point on the map to get a list of landscapes by famous artists depicting the area. |
-| [COPERNIX](https://copernix.io/) | Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions. |
-| [Huntel.io](https://www.huntintel.io/) | get a list of links to Facebook/Instagram locations linked to geographic coordinates |
+| [Flickr Common Map](http://www.whatsthatpicture.com/flickr/commons-map.php) | クリエイティブコモンズライセンスの下で配布されたFlickrの写真のみを表示します(場所ごとに最新の250枚)。 |
+| [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | #catハッシュタグを付けたInstagramのジオタグ付き写真。 |
+| [Trendsmap.com](https://www.trendsmap.com/map) | 世界地図で最も人気のある#Twitterトレンド、ハッシュタグ、ユーザーを探索。 |
+| [Pastvu.com](https://pastvu.com/) | 特定の場所で撮影された過去の写真を地図上に表示します。 |
+| [BirdHunt](https://birdhunt.co/) | 地理位置情報/半径を選択し、その場所で行われた最近のツイートのリストを取得できる非常にシンプルなツールです。 |
+| [WikiShootMe](https://wikishootme.toolforge.org/) | ジオタグ付きウィキペディアクリエイティブコモンズ画像の世界地図。詳細情報を表示するには、MediaWikiアカウントでログインしてください。 |
+| [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) | 地図上のポイントをクリックすると、有名なアーティストがその地域を描いた風景のリストが表示されます。 |
+| [COPERNIX](https://copernix.io/) | ジオロケーション付きのウィキペディア記事の世界地図。地域の名前を入力して、その地域の街並みや名所に関する記事を見ることができます。 |
+| [Huntel.io](https://www.huntintel.io/) | 地理座標にリンクされた Facebook/Instagram の場所へのリンクのリストを取得する |
 
-### [](#nature)Nature
+### [](#nature) 自然
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
-| [Map View NGMDB](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4) | map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database). |
-| [WAQI](http://waqi.info) | World's Air Pollution: Real-time Air Quality Index map |
-| [GlobalFishingMap](https://globalfishingwatch.org/map/) | click on a point on the map and get the data on the current fishing effort at that location. |
-| [ncei.noaa.gov](https://www.ncei.noaa.gov/maps/hazards/) | Natural Hazards Viewer (worldwide) |
-| [Lightingmaps](https://www.lightningmaps.org/) | lightning strikes in real time and also data on thunderstorms that ended months or years ago |
-| [Light Pollution World Map](https://www.lightpollutionmap.info/) | showing the degree of light pollution in different countries. It's possible to see the data over time (since 2013) |
-| [Global Wetlands Map](https://www2.cifor.org/global-wetlands/) | Interactive map of open waters, mangroves, swamps, fens, riverines, floodswamps, marshs, wet meadows and floodplains (unfortunately, there are not all countries in the world) |
-| [Fire MAP NASA](https://firms.modaps.eosdis.nasa.gov/map/) | online map of fire hotspots around the world (data from VIIRS and MODIS satellites, last 24 hours) |
-| [Ocearch Shark Tracker](https://www.ocearch.org/tracker/) | Click on a shark on the world map and find out its name, size and travel log. |
-| [Surging Seas: Risk Zone Map](https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide) | Map of points where there is a risk of significant sea level rise in the event of melting glaciers. |
-| [USA Fishermap](https://usa.fishermap.org/depth-map/) | when you click on a freshwater body of water, its detailed map opens, on which the depth at different points is marked |
-| [Mindat.org](https://www.mindat.org/countrylist.php) | mineral maps for different countries |
-| [Ventusky.com](https://www.ventusky.com/) | collection of weather map (wind, rain, temperature, air pressure, humidity, waves etc) |
-| [Wunderground](https://www.wunderground.com/history) | weather history data |
-| [Rain Alarm](http://rain-alarm.com) | shows where it is raining on the map. You can enable notification of approaching rain (in the browser and in the mobile app) |
-| [Cyclocane](https://cyclocane.com) | click on the hurricane on the map and get detailed information about it |
-| [MeteoBlue](https://www.meteoblue.com/) | Weather stats data |
-| [Zoom.earth](https://zoom.earth/) | Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas |
-| [NGDC Bathymetry map](https://maps.ngdc.noaa.gov/viewers/bathymetry/) | worldwide detailed interactive bathymetry map |
-| [Soar.earth](https://soar.earth/) | big collection satellite, drone and ecological maps |
-| [Geodesics on the Earth](https://academo.org/demos/geodesics/) | finding the shortest path between two points |
-| [Google Earth](https://www.google.com/earth/) | 3D representation of Earth based primarily on satellite imagery |
-| [Everymountainintheworld](http://everymountainintheworld.com/) | Map of the world showing the mountains (with absolute and relative altitude and links to Peakbagger, Listsofjohn and Caltopo). |
-| [Rivermap](https://rivermap.org/map/#sprache=en) | Online map with the most detailed information on Europe's rivers (mostly central for the time being, but the data is being updated): direction and speed, water temperature, depth, slope angle, etc. |
-| [Global Biodiversity Information Facility](https://www.gbif.org/occurrence/map?q=cobra) | Enter the name of an animal, bird or plant to see a map of where it has been spotted. |
-| [Natural Hazards Map (worldwide)](https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map) | Enter location and assess the risk of flooding, earthquakes and hail in this place on the map. |
-| [River Runner Global](https://river-runner-global.samlearner.com/) | Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans. |
-| [Global Flood Database (and interactive map)](http://global-flood-database.cloudtostreet.ai/) | Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc. |
+| [Map View NGMDB](https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4) | NGMDB (国立地質図データベース) からいくつかの地質図と記事を探索するための地図。 |
+| [WAQI](http://waqi.info) | 世界の大気汚染: リアルタイムの大気質指数マップ |
+| [GlobalFishingMap](https://globalfishingwatch.org/map/) | 地図上のポイントをクリックして、その場所での現在の漁獲量に関するデータを取得します。 |
+| [ncei.noaa.gov](https://www.ncei.noaa.gov/maps/hazards/) | 自然災害閲覧者 (全世界) |
+| [Lightingmaps](https://www.lightningmaps.org/) | リアルタイムの落雷と、数か月または数年前に終わった雷雨に関するデータ |
+| [Light Pollution World Map](https://www.lightpollutionmap.info/) | さまざまな国の光害の程度を示しています。2013年以降の経時データが見られる |
+| [Global Wetlands Map](https://www2.cifor.org/global-wetlands/) | 解放水域、マングローブ、沼地、沢、河川、洪水沼地、湿地、湿った牧草地、氾濫原のインタラクティブマップ (残念ながら、世界のすべての国があるわけではありません) |
+| [Fire MAP NASA](https://firms.modaps.eosdis.nasa.gov/map/) | 世界中の火災ホットスポットのオンラインマップ (VIIRS および MODIS 衛星からのデータ、過去24時間) |
+| [Ocearch Shark Tracker](https://www.ocearch.org/tracker/) | 世界地図でサメをクリックすると、その名前、サイズ、旅行記録が表示されます。 |
+| [Surging Seas: Risk Zone Map](https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide) | 氷河が溶けた場合に海面が大幅に上昇するリスクがある地点の地図。 |
+| [USA Fishermap](https://usa.fishermap.org/depth-map/) | 淡水域をクリックすると、その詳細な地図が開き、さまざまなポイントの深さがマークされます。 |
+| [Mindat.org](https://www.mindat.org/countrylist.php) | さまざまな国の鉱物マップ。 |
+| [Ventusky.com](https://www.ventusky.com/) | 天気図集（風、雨、気温、気圧、湿度、波など）。 |
+| [Wunderground](https://www.wunderground.com/history) | 気象履歴データ。 |
+| [Rain Alarm](http://rain-alarm.com) | 雨が降っている場所を地図上に表示します。雨が近づいていることの通知を有効にすることができます (ブラウザとモバイルアプリで)。 |
+| [Cyclocane](https://cyclocane.com) | 地図上のハリケーンをクリックして、詳細情報を入手することができる。 |
+| [MeteoBlue](https://www.meteoblue.com/) | 気象統計データ。 |
+| [Zoom.earth](https://zoom.earth/) | 雨、嵐、火災、熱、風、その他の自然現象の世界地図。 |
+| [NGDC Bathymetry map](https://maps.ngdc.noaa.gov/viewers/bathymetry/) | 世界の詳細なインタラクティブな海底地形図。 |
+| [Soar.earth](https://soar.earth/) | 大規模なコレクション衛星、ドローン、生態マップ。 |
+| [Geodesics on the Earth](https://academo.org/demos/geodesics/) | 2点間の最短経路を見つける。 |
+| [Google Earth](https://www.google.com/earth/) | 主に衛星画像に基づく地球の3D表現。 |
+| [Everymountainintheworld](http://everymountainintheworld.com/) | 山を示す世界地図 (絶対高度と相対高度、Peakbagger、Listsofjohn、Caltopoへのリンク付き)。 |
+| [Rivermap](https://rivermap.org/map/#sprache=en) | ヨーロッパの河川に関する最も詳細な情報を含むオンラインマップ (当面は主に中心部ですが、データは更新中です): 方向と速度、水温、深さ、傾斜角度など。 |
+| [Global Biodiversity Information Facility](https://www.gbif.org/occurrence/map?q=cobra) | 動物、鳥、植物の名前を入力して、発見された場所の地図を表示します。 |
+| [Natural Hazards Map (worldwide)](https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map) | 場所を入力し、地図上のこの場所での洪水、地震、雹のリスクを評価します。 |
+| [River Runner Global](https://river-runner-global.samlearner.com/) | マップ上の任意のポイントをクリックして、雨水が現在の場所から世界の海までたどる経路をたどります。 |
+| [Global Flood Database (and interactive map)](http://global-flood-database.cloudtostreet.ai/) | 過去 15 年間 (全世界) の洪水に関する詳細な統計: 降水量、浸水地域、影響を受けた人数、日付、期間 (日数) など。 |
 
-### [](#aviation)Aviation
+### [](#aviation) 航空
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
-| [Skyvector](https://skyvector.com/) | tool is designed for planning private flights. And you can find an incredible amount of data about the current situation in the sky on it |
-| [Flight Connections](https://www.flightconnections.com/) | click on the airport on the map to see the cities from which it's possible fly direct |
+| [Skyvector](https://skyvector.com/) | このツールは、プライベートフライトを計画するために設計されています。現在の空の状況に関する信じられないほどの量のデータがあります。 |
+| [Flight Connections](https://www.flightconnections.com/) | 地図上の空港をクリックして、直行便が出発できる都市を確認できます。 |
 | [World Aviation Accident Database 1962-2007](https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx) |     |
 | [World Aviation Accident Database 2008-2021](https://data.ntsb.gov/carol-main-public/basic-search) |     |
-| [Rzjets.net](http://rzjets.net/aircraft/) | user updated online database (census) of civilian jet and turbojet aircraft |
-| [Globe.adsbexchange.com](https://globe.adsbexchange.com/) | tracking flights on a map |
-| [Transtats.bts.gov](https://transtats.bts.gov/ONTIME/) | flight schedules and data on the actual departure/arrival times of flights in the U.S. for more than 30 years (!)) |
-| [Legrooms for Google Flights](https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related) | An extension that displays the size of the legroom between the seats next to the flight information. |
+| [Rzjets.net](http://rzjets.net/aircraft/) | ユーザーが更新した民間ジェット機とターボジェット機のオンラインデータベース (国勢調査)。 |
+| [Globe.adsbexchange.com](https://globe.adsbexchange.com/) | 地図上でフライトを追跡する。 |
+| [Transtats.bts.gov](https://transtats.bts.gov/ONTIME/) | フライトスケジュールと、米国での30年以上にわたるフライトの実際の出発/到着時間に関するデータです。 |
+| [Legrooms for Google Flights](https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related) | フライト情報の横に座席間の足元の広さを表示する拡張機能。 |
 
 ### [](#maritime)Maritime
 
-| Link | Description |
+| リンク 詳細
 | --- | --- |
 | [Track Trace](https://www.track-trace.com/container) | tracking a shipping container by number |
 | [Container Tracking](http://container-tracking.org/) | tracking a shipping container by number |
@@ -232,7 +231,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#railway)Railway
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Amtrak Status Maps Archive Database](https://juckins.net/amtrak_status/archive/html/history.php) | find out the train schedule for a station on a particular day that passed many years ago (since 2008) |
 | [Europe station maps floor plan](https://www.nsinternational.com/en/stations/station-maps-floor-plan) |     |
@@ -242,7 +241,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#routes)Routes
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Ride With GPS](https://ridewithgps.com/users) |     |
 | [Wandermap](http://www.wandermap.net/en/#/z15/55.7522011,37.6156006/terrain) | hiking routes world map |
@@ -251,7 +250,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#politics-conflicts-and-crisis)Politics, conflicts and crisis
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Freedomhouse.org](http://freedomhouse.org/explore-the-map) | map of the world that shows the scores of different countries on the following indicators (on a scale of 1 to 100) |
 | [Crimemapping.com](https://www.crimemapping.com/) | pick a state, a police agency, and what crimes and where were committed in the territory under its control in the last 24 hours, a week, or a month. |
@@ -271,13 +270,13 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#culture)Culture
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Taste Atlas](https://www.tasteatlas.com/) | Worldwide online map of national cuisine. There are thousands of dishes typical of countries or regions as a whole, as well as small towns. |
 
 ### [](#urban-and-industrial-infrastructure)Urban and industrial infrastructure
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Wheelmap.org](https://wheelmap.org) | map shows public places that are accessible and partially accessible to #wheelchair users |
 | [Pedestriansfirst](https://pedestriansfirst.itdp.org/) | Evaluate the pedestrian friendliness of streets in different cities. There is a lot of detailed data that will be useful both for choosing a place to live and for a variety of research |
@@ -295,7 +294,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#worldwide-street-webcams)Worldwide street webcams
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Insecam.org](http://www.insecam.org/) |     |
 | [Earthcam](https://www.earthcam.com/) |     |
@@ -313,7 +312,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#tools)Tools
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Calculator IPVM](https://calculator.ipvm.com/) | A tool that shows how the image from an outdoor camera it will look (based on data from Google Street View). You can specify camera parameters or select a model from a list (9188 cameras). |
 | [Osmaps Radius](http://jopf.re/osmaps-radius/) | drawing circles with a certain radius on the map |
@@ -337,7 +336,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#transport)Transport
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Venicle Number Search Toolbox](https://cipher387.github.io/venicle_number_search_toolbox/) | search information about car by venicle numbers (14 different countries from one page) - #GreatBritain, #Norway, #Denmark, #Russian and others |
 | [Transit Visualisation Client](https://tracker.geops.ch) | real time info about public transport in 739 cities and towns in the dozens of countries |
@@ -347,7 +346,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#communications-internet-technologies)Communications, Internet, Technologies
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Opencellid.org](https://opencellid.org/) | the world's largest Open Database of Cell Towers |
 | [API mylnikov.org](https://www.mylnikov.org/) | get lattitude and longitude by WiFI BBSID |
@@ -364,7 +363,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#anomalies-and-lost-places)Anomalies and "Lost Places"
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Argis UFO map](https://www.arcgis.com/apps/View/index.html?appid=6cd609921ebc44ff914a4e8059813b16) | UFO sightings interactive map. USA only |
 | [Bigfoot and UFO map](https://www.google.com/maps/d/viewer?msa=0&mid=1PX4dE4ZRFR8pEnc2xHATGQe1rDA&ll=33.679013212530805%2C-38.36085893876531&z=3) | Bigfoot, UFO and other sightings around USA and Europe |
@@ -382,7 +381,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#street-view)Street View
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Show My Street](http://showmystreet.com) | simple tool that simplifies and speeds up your research work with Google Street View. Just click on the map and see street panoramas |
 | [Mapillary](https://www.mapillary.com/app/) | street panoramas over the world |
@@ -391,7 +390,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#satelliteaerial-imagery)Satellite/aerial imagery
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Observer](http://observer.farearth.com/observer/) | service allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording. |
 | [USGS Earth Explorer](https://earthexplorer.usgs.gov/) | more than 40 years old collection of satellite imagery |
@@ -411,7 +410,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#military-tracking)Military tracking
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [ADS-b.nl](https://www.ads-b.nl) | tracking military aircrafts. |
 | [Planefinder Army Live Flight Tracker](https://planefinder.net/flight/ARMY). |     |
@@ -427,7 +426,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#military-visalisation)Military visalisation
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Map.Army](https://www.map.army/) | Online tool for creating schemes of battles and military operations on the map. Extensive customization possibilities and a huge library of symbols. |
 | [MGRS Mapper](https://mgrs-mapper.com/) | Build and share custom maps with standard military graphics using a simple visual interface (paod) |
@@ -435,7 +434,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#other)Other
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Demo.4map.com](http://demo.f4map.com) | 3D interactive world map |
 | [OldMapsOnline](https://www.oldmapsonline.org/) | World aggregator of old maps from various sources (498,908 maps) |
@@ -449,7 +448,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#twitter)Twitter
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Stweet](https://github.com/markowanga/stweet) | Opensource Python library for scraping tweets (by user, by hashtag, by keyword). NO LOGIN OR API KEY REQUIRED. |
 | [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
@@ -495,7 +494,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#youtube)YouTube
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [YouTube Unlisted Video](https://unlistedvideos.com/) | search for videos available only by link on youtube |
 | [YouTube Comments Analyze](https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php) | Download detailed information about YouTube video comments to a .tab or .gdf |
@@ -532,7 +531,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#tiktok)TikTok
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Tiktok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) | determines the time of publication of the video to the nearest second. Just copy the link. |
 | [TikStats](https://tikstats.org/) | detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account |
@@ -549,13 +548,13 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#protonmail)Protonmail
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) | Validate ProtonMail email address, Gather info about ProtonMail user email or PGP Key, Search on the dark web target digital footprints, Check IP to belong to ProtonVPN |
 
 ### [](#facebook)Facebook
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Find my FB ID (randomtools.io)](https://randomtools.io/) |     |
 | [435,627,630 indexed items from that Facebook dump of recent - ready to be searched upon.](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/) |     |
@@ -569,7 +568,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#clubhouse)Clubhouse
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [ClubHouse users.db](https://clubhousedb.com/) | search users by nickname and keyword in profile |
 | [roomsofclubhouse.com](https://roomsofclubhouse.com/) | search open and scheduled rooms |
@@ -578,7 +577,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#linkedin)Linkedin
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Freepeoplesseacrhtool.com](https://freepeoplesearchtool.com/) | find people in Linkedin without registration |
 | [CrossLinked](https://github.com/m8r0wn/crosslinked) | LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping |
@@ -587,13 +586,13 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#xing)Xing
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [XingDumper](https://github.com/l4rm4nd/XingDumper) | The Xing job and networking service has almost 20 million users! Here is a simple script that allows you to get a list of employees registered there for a particular company. |
 
 ### [](#reddit)Reddit
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=615624.4584051393) | an alternative format for interacting with Reddit |
 | [Reddit Insvestigator](https://www.redditinvestigator.com/) |     |
@@ -617,7 +616,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#onlyfans)Onlyfans
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [fansmetrics.com](http://fansmetrics.com) | Search in 20 millions #OnlyFans accounts |
 | [Onlysearch.com](https://onlysearch.co/) | Onlyfans users search engines |
@@ -627,7 +626,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#twitch)Twitch
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) | downloas full followers list of any Twitch account in CSV |
 | [Twitch Tracker](https://twitchtracker.com/) | detailed analysis of #Twitch streamer stats |
@@ -642,31 +641,31 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#fidonet)Fidonet
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Fidonet nodelist](https://nodehist.fidonet.org.ua/) | search by node number, sysop name and sysop location |
 
 ### [](#usenet)Usenet
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [NZBFRIENDS](http://nzbfriends.com) | usenet search engine |
 
 ### [](#tumblr)Tumblr
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Tumblr Tool](http://labs.polsys.net/tools/tumblr/) | collected posts tagged with a specific term from Tumblr and export to .tab file (opens in Excel) and .GDF (opens in Gephi) |
 
 ### [](#flickr)Flickr
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Flickr Photopool Contact Network](http://labs.polsys.net/tools/flickr/photopool/) | Analyzes Flickr groups and makes a list of nicknames of participants for further graph analysis in Gephi |
 
 ### [](#spotify)Spotify
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Zspotify](https://github.com/Footsiefat/zspotify) | Spotify track downloader. Download mp3 by link or by keywords |
 | [Chosic.com](https://www.chosic.com/spotify-playlist-analyzer/) | analyze the playlist on Spotiify, calculate the prevailing mood, genres, decades and favorite artists |
@@ -675,7 +674,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#discord)Discord
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | 14 #Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc) in one #python tool. |
 | [Discord History Tracker](https://dht.chylex.com) | A tracking script will load messages from the selected channel and save them in .txt file. |
@@ -683,13 +682,13 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#yandex)Yandex
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [YaSeeker](https://github.com/HowToFind-bot/YaSeeker) | Get information about [http://Yandex.ru](http://Yandex.ru) account by login |
 
 ### [](#instagram)Instagram
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Instahunt](https://instahunt.co/) | Click on the point on the world map Click "Find places" Click "Get Instagram Place Data" Copy and paste the "Place Data" into the box View Insta locations on the map with links to photos! |
 | [Instagram Location Search](https://github.com/bellingcat/instagram-location-search) | Get the names and links to all the locations on Instagram tied to specific geographic coordinates |
@@ -707,19 +706,19 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#google)Google
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [GHunt](https://github.com/mxrch/GHunt) | google account investigation tool |
 
 ### [](#patreon)Patreon
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Graphtreon.com](https://graphtreon.com/) | patreon accounts earnings stats |
 
 ### [](#github)Github
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Star History](https://star-history.com) | simple tool that shows how the number of stars a repository on #Github has changed over the past three months. |
 | [Commits.top](https://commits.top/) | Current list of the most active @Github users by country |
@@ -741,64 +740,64 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#wikipedia)Wikipedia
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [WikiStalk : Analyze Wikipedia User's Activity](https://github.com/altilunium/wistalk) |     |
 | [Wikipedia Cross-lingual Image Analysis](https://tools.digitalmethods.net/beta/wikipediaCrosslingualImageAnalysis/) | A simple tool that allows to evaluate the content of different language versions of an #wikipedia article about the same subject or concept in one glance. |
 
 ### [](#parler)Parler
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Parler archive](https://parler.adatascienti.st/) |     |
 
 ### [](#pornhub)Pornhub
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Sn0int framework module for Pornhub](https://sn0int.com/r/kpcyrd/pornhub) |     |
 
 ### [](#steam)Steam
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [steamdb.info/calculator](https://steamdb.info/calculator/) | shows how much money has been spent on games in Steam by a particular user |
 | [Steam Osint Tool](https://github.com/matiash26/Steam-OSINT-TOOL) | Enter the link to the user's Steam profile to get a list of his or her closed "friends" and a list of his or her public comments. |
 
 ### [](#xbox)Xbox
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Xboxgamertag](https://xboxgamertag.com/) | search Xbox Live users by nickname (gamertag). It's possible to view gamer's stats and his playing history. |
 
 ### [](#vk)VK
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Vk.city4me.com](http://vk.city4me.com/) | tracking user online time |
 
 ### [](#office365)Office365
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Oh365UserFinder](https://github.com/dievus/Oh365UserFinder) | A simple tool that shows if an #Office365 account is tied to a specific email address. It's possible to check an entire list of emails from a text file at once. |
 | [o365chk](https://github.com/nixintel/o365chk) | simple #Python script to check if there is an #Office365 instance linked to a particular domain and gathering information about this instance. |
 
 ### [](#onedrive)OneDrive
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Onedrive Enumeration Tool](https://github.com/nyxgeek/onedrive_user_enum) | A tool that checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company. |
 
 ### [](#udemy)Udemy
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Udemy Video Playback Speed](https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn/related) | A simple extension that changes the speed of playing video courses on #Udemy. |
 
 ### [](#universal)Universal
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Gallery-dl](https://github.com/mikf/gallery-dl) | Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai |
 | [Kribrum.io](https://kribrum.io/search) | searchengine for different social media platforms with filters by author and time period |
@@ -817,7 +816,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#downloaders)Downloaders
 ===========================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Wenku](https://pypi.org/project/wenku/) | download documents from Baidu Wenku without registration |
 | [Slideshare Downloader](https://github.com/mohan3d/slideshare-go) | A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once) |
@@ -850,7 +849,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#dorkspentestvulnerabilities)Dorks/Pentest/Vulnerabilities
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [OWASP Amass](https://github.com/OWASP/Amass) | The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques. |
 | [Investigator Recon Tool](https://abhijithb200.github.io/investigator/) | web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name. |
@@ -881,7 +880,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#searchers-scrapers-extractors-parsers)Searchers, scrapers, extractors, parsers
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Scrappy!](https://chrome.google.com/webstore/detail/scrappy/bcphfcbaecjifhiojhejdiogpanlmadm/related) | One of the easiest to learn web scrapers I've seen (and quite fast at that). It allows you to extract all URLs, table fields, lists and any elements matching the given criteria from a web page in a second. |
 | [find+](https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related) | Regex Find-in-Page Tool |
@@ -897,7 +896,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#redirect-lookup)Redirect lookup
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Redirect Detective](https://redirectdetective.com/) | tool that allows you to do a full trace of a URL Redirect |
 | [Wheregoes.com](https://wheregoes.com/) | tool that allows you to do a full trace of a URL Redirect |
@@ -905,7 +904,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#cookies-analyze)Cookies analyze
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Determines if website is not comply with EU Cookie Law and gives you insight about cookies installed from website before the visitors consent](https://www.cookiemetrix.com/) |     |
 | [Audits website cookies, online tracking and HTTPS usage for GDPR compliance](https://2gdpr.com/) |     |
@@ -916,7 +915,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#websites-files-metadata-analyze-and-files-downloads)Website's files metadata analyze and files downloads
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Metagoofil](https://github.com/laramies/metagoofil) | finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses |
 | [Aline](https://github.com/ferreiraklet/Aline) | a very simple tool that simply downloads files of a certain type, located on a certain domain and indexed by Google. |
@@ -929,14 +928,14 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#backlinks-analyze)Backlinks analyze
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [SEO Spyglass Backlink checker](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html) |     |
 | [Neilpatel backlinks analyzer](https://app.neilpatel.com/en/seo_analyzer/backlinks) | find out how many sites are linking to a certain web page |
 
 ### [](#website-analyze)Website analyze
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [AppSumo Content Analyzer](https://app.buzzsumo.com/content/web) | Enter the name of the domain and find out for free its three most popular publications in social networks (for six months, a quarter, a month, or the last day) |
 | [OpenLinkProfiles](http://openlinkprofiler.org/) | Get backlinks by website URL. Filter and sort backlinks by anchor, context, trust, LIS and industry. |
@@ -960,7 +959,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#domainip-investigation)Domain/IP investigation
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [@UniversalSearchBot](https://t.me/UniversalSearchBot) | telegram bot finding information about email, russian phone number, domain or IP |
 | [Domain Investigation Toolbox](http://cipher387.github.io/domain_investigation_toolbox/) | gather information about domain with 41 online tools from one page. |
@@ -1007,7 +1006,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [SubDomainsBrute](https://github.com/lijiejie/subDomainsBrute) | Very(!) fast and simple tool for subdomain bruteforce. It find 53 subdomains, scanned 31160 variations in 31 seconds. |
 | [Anubis](https://github.com/jonluca/Anubis) | Subdomain enumeration and information gathering tool |
@@ -1018,14 +1017,14 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#cloudfare)Cloudfare
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Cloudmare](https://github.com/MrH0wl/Cloudmare) | Simple tool to find origin servers of websites protected by #Cloudflare, #Sucuri or #Incapsula with a misconfiguration DNS |
 | [CloudUnflare](https://github.com/greycatz/CloudUnflare) | Reconnaissance Real IP address for Cloudflare Bypass |
 
 ### [](#databases-of-domains)Databases of domains
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Whois Freaks](https://whoisfreaks.com/) | API which allows you to search Whois-database (430M+ domains since 1986) by keyword, company name or owner name |
 | [Expireddomains.net](https://www.expireddomains.net/deleted-domains/) | lists of deleted and expired domains (last 7 days) |
@@ -1038,7 +1037,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#website-traffic-look-up)Website traffic look up
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [SimilarWeb](https://www.similarweb.com/) | Detailed website traffic analyze |
 | [Alexa](https://www.alexa.com/) | Keyword Research, Competitive Analysis, Website Ranking |
@@ -1047,7 +1046,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#website-technology-look-up)Website technology look up
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/related) | extension, which discover what runs a website: frameworks, Analytics Tools, Wordpress Plugins, Fonts. |
 | [Built With](https://builtwith.com/) |     |
@@ -1063,7 +1062,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#source-code-analyzes)Source Code Analyzes
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Retire.js](https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related) | GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries |
 | [OpenLink Structured Data Sniffer](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related) | GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |
@@ -1079,7 +1078,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#broken-links-checkers)Broken Links Checkers
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Broken Link Hijacker](https://github.com/MayankPandey01/BrokenLinkHijacker) | Crawls the website and searches for all the broken links (in "<a href" and "<img src"). |
 | [Broken Link Checker](https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch/related) | shows which links on the page are giving out errors. It helps to find sites that have been working recently but are no longer working. |
@@ -1088,7 +1087,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#url-unshorteners)URL unshorteners
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Get Link Info](https://www.getlinkinfo.com/) |     |
 | [Unshorten.me](https://unshorten.me/) |     |
@@ -1097,7 +1096,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#text-analyze)Text Analyze
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Headlines.Sharethrough.com](https://headlines.sharethrough.com/) | analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100 |
 | [Wordtune.com](https://wordtune.com/read) | Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text. |
@@ -1105,7 +1104,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#sound-indefication-and-analyze)Sound indefication and analyze
 =================================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Online Loudness Meter](https://youlean.co/online-loudness-meter/) | allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file. |
 | [Voice Stress Test](https://www.cignaglobal.com/stress-care/individuals/voice-tool) | tool analyzes the voice and determines a person's stress level. |
@@ -1115,7 +1114,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#sound-search-and-analyze)Sound search and analyze
 =====================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [soundeffectssearch.com](https://www.soundeffectssearch.com/find-a-sound-library/) | find a sound library |
 | [Vocal Remover](https://vocalremover.org/) | An AI-based service that removes vocals from a song, leaving only the music. It works amazingly well. |
@@ -1123,7 +1122,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#video-editing-and-analyze)Video editing and analyze
 =======================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [unscreen.com](https://www.unscreen.com/) | remove the background from an uploaded video |
 | [TextGrab](https://chrome.google.com/webstore/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja/related) | Simple #Chrome extension for copying and recognizing text from videos (#YouTube, #GoogleMeetup etc.) |
@@ -1135,7 +1134,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#reverse-image-search-engines-and-automation-tools)Reverse Image Search Engines and automation tools
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [News Myseldon](https://news.myseldon.com/en/) | from the photo looks for famous and little-known (like minor officials) people |
 | [Ascii2d.net](http://ascii2d.net) | Japanese reverse image search engine for anime lovers expose image properties, EXIF data, and one-click download |
@@ -1160,7 +1159,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#image-editing-tools)Image editing tools
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Theinpaint](https://theinpaint.com/) | One of the best (and free) online photo object removal tools I've ever seen. Just highlight red on the photo and press Erase. Then do it again, and again, and again (until you get the perfect result). |
 | [GFPGAN](https://replicate.com/tencentarc/gfpgan) | Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos. |
@@ -1170,14 +1169,14 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#other-image-search-engines)Other Image Search Engines
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [SN Radar VK Photo Search](https://snradar.azurewebsites.net/) |     |
 | [BBC News Visual Search](http://zeus.robots.ox.ac.uk/bbc_search/) | Enter the name of the item and the service will show in which news stories and at what time interval it appeared |
 
 ### [](#image-analyze)Image Analyze
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Sherloq](http://github.com/GuidoBartoli/sherloq) | open source image #forensic toolset made by profesional photograph Guido Bartoli |
 | [Image Color Picker](https://imagecolorpicker.com/) | pick color (HEX or RGB) from image or website screenshot |
@@ -1192,7 +1191,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#exif-analyze-and-editing)Exif Analyze and editing
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [EXIF-PY](https://github.com/ianare/exif-py) | get exif data of photos thrue command line |
 | [Exif.app](http://exif.app) | Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow |
@@ -1207,7 +1206,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#face-recognition-and-search)Face recognition and search
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Face Recognition](https://github.com/ageitgey/face_recognition) | facial recognition api for Python and the command line |
 | [Facial composite (identikit) maker](http://facemaker.uvrg.org/) |     |
@@ -1216,7 +1215,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#font-indenfication)Font Indenfication
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [WhatTheFont](https://www.myfonts.com/WhatTheFont/) |     |
 | [WhatFontIs](https://www.whatfontis.com/) |     |
@@ -1228,7 +1227,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#cryptocurrencies)Cryptocurrencies
 =====================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Wallet explorer](https://www.walletexplorer.com/) | bitcoin wallet transaction history |
 | [Blockpath.com](https://blockpath.com/) | viewing bitcoin wallet transactions as a graph |
@@ -1242,7 +1241,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#telegram)Telegram
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) | Telegram search engine |
 | [Commentgram CSE](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) | search by Telegram comments |
@@ -1262,7 +1261,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#whatsapp)WhatsApp
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [whatsanalyze.com](https://Whatsanalyze.com) | analyzes #WhatsApp group message statistics (world cloud, timeline, message frequency) |
 | [chatvisualizer.com](https://chatvisualizer.com) | another #WhatsApp chat analyzer. |
@@ -1271,19 +1270,19 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#kik)Kik
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Kikusernames.com](https://kikusernames.com/search) | Kik messenger username search |
 
 ### [](#slack)Slack
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Slack Pirate](https://github.com/emtunc/SlackPirate) | tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token |
 
 ### [](#skype)Skype
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [vedbex.com/tools/email2skype](https://www.vedbex.com/tools/email2skype) | finding a Skype account by email |
 | [SkypeHunt](https://github.com/8C/skypehunt) | A tool for finding Skype users by nickname. Shows a list of users with date of birth, year of account creation, country, avatar link, and other information. |
@@ -1291,7 +1290,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#code)Code
 =============
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Grep.app](https://grep.app/) | regExp search in Github repositories |
 | [Searchcode.com](https://searchcode.com/) | Search engine for @github, @gitlab, @bitbucket, @GoogleCode and other source code storages |
@@ -1335,7 +1334,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#search-engines)Search engines
 =================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [fnd.io](https://fnd.io/) | alternative search engine for the AppStore and iTunes |
 | [GlobalSpec Engineer Search Engine](https://www.globalspec.com/) |     |
@@ -1367,7 +1366,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#universal-search-tools)Universal search tools
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [S](https://github.com/zquestz/s) | Search from command line in 106 different sources |
 | [searchall.net](https://searchall.net) | 75 fields for quick entry of queries to different search services on one page |
@@ -1378,7 +1377,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Onion Search](https://github.com/megadose/OnionSearch) |     |
 | [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
@@ -1390,14 +1389,14 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#public-buckets-search-tools)Public buckets search tools
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [buckets.grayhatwarfare.com](http://buckets.grayhatwarfare.com) | Amazon Public Buckets Search |
 | [osint.sh/buckets](http://osint.sh/buckets) | Azure Public Buckets Search |
 
 ### [](#bugbountyvulnerabilities-search-tools)Bugbounty/vulnerabilities search tools
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Firebounty](https://firebounty.com) | Bug bounty search engine |
 | [BugBountyHunting](https://www.bugbountyhunting.com) | Bug bounty hunting search engine |
@@ -1413,7 +1412,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 **I strongly recommend to use it strictly for research purposes and to search for files that cannot be legally purchased anywhere else. Respect the copyrights of others.**
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Napalm FTP Indexer](https://www.searchftps.net/) |     |
 | [Cloud File Search Engine](http://filesearch.link) | search music, books, video, programs archives in 59 file-sharing sites (#meganz, #dropark, #turbotit etc) |
@@ -1438,7 +1437,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#tools-for-duckduckgo)Tools for DuckDuckGo
 =============================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [DuckDuckGo !bangs](https://chrome.google.com/webstore/detail/duckduckgo-bangs/hdjfebkndhmegijlghjcdghdbealibeb/related) | extension that add DuckDuckGo bang buttons to search results and search links in the context menu |
 | [DDGR](https://github.com/jarun/ddgr) | Search in DuckDuckGo via the command line: - export the results to JSON; - bangs support - location setting |
@@ -1446,7 +1445,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#tools-for-google)Tools for Google
 =====================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Google Search Scraper](https://apify.com/apify/google-search-scraper) | Crawls Google Search result pages (SERPs) and extracts a list of organic results, ads, related queries and more. It supports selection of custom country, language and location |
 | [Googler](https://github.com/jarun/googler) | command line google search tool |
@@ -1469,7 +1468,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#iot)IOT
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Greynoise.io](https://www.greynoise.io/) |     |
 | [fofa.so](https://fofa.so/) |     |
@@ -1479,7 +1478,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#archives)Archives
 =====================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Quick Cache and Archive search](https://quickcacheandarchivesearch.onrender.com/) | quick search website old versions in different search engines and archives (21 source) |
 | [Trove](http://trove.nla.gov.au/search/category/websites) | australian web archive |
@@ -1498,7 +1497,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#tools-for-working-with-web-archives)Tools for working with web archives
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related) | extension for viewing cached web page version in 18 search engines and services |
 | [EasyCache](https://gaetanlhf.github.io/EasyCache/) | quick search website old versions in different search engines and archives |
@@ -1517,7 +1516,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#warc)Tools for working with WARC (WebARChive) files
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Warcat](https://github.com/chfoo/warcat) | My favorite (because it's the easiest) tool for working with Warc files. It allows you to see the list of files in the archive (command "list") and unpack it (command "extract").  |
 | [Replayweb](https://github.com/webrecorder/replayweb.page) | If the warc file is small, you can view its contents with this extreme simple online tool. Also it's possible to deploy ReplayWeb on your own server  |
@@ -1530,7 +1529,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#archives-of-documentsnewspapers)Archives of documents/newspapers
 ====================================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [UK National Archives](https://nationalarchives.gov.uk/) | search in the catalogue of United Kingdom "The National Archives" |
 | [Directory of Open Access Journals](https://doaj.org/search/journals) | Search by 16 920 journals, 6, 588, 661 articles, 80 lanquages, 129 countries |
@@ -1547,7 +1546,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#science)Science
 =====================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [ConnectedPapers](https://www.connectedpapers.com/) | A tool for gathering information about academic papers. It shows a large graph of references to other articles that are present in the text and clearly see the connections between different authors. |
 | [AcademicTree](https://academictree.org/) | A tool for finding links between scientists (including little-known ones). 150000+ people in database (in all sections combined). Select a field of science. Enter a person's name. See a tree of their teachers and students |
@@ -1556,7 +1555,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#datasets)Datasets
 =====================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Afrobarometer](https://afrobarometer.org/online-data-analysis/analyse-online) | huge database of the results of sociological surveys conducted in African countries over the last 20 years |
 | [Arabbarometer](https://www.arabbarometer.org/survey-data/data-analysis-tool/) | database of the results of sociological surveys conducted in the Arab countries of Africa and the Middle East in 2007-2018 |
@@ -1567,7 +1566,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#passwords)Passwords
 =======================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [CrackStation.net](https://crackstation.net/) | password hash cracker |
 | [Leak peek](https://leakpeek.com/) | by pasword search part of email and site, where this password is used |
@@ -1580,7 +1579,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#emails)Emails
 =================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [geeMail User Finder](https://github.com/dievus/geeMailUserFinder) | A simple tool to check the validity of a Gmail account. You can check a single email or a list of emails. |
 | [Breachchecker.com](https://breachchecker.com/) | history of data leaks associated with a particular email address |
@@ -1601,7 +1600,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#nicknames)Nicknames
 =======================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [@maigret\_osint\_bot](https://t.me/maigret_osint_bot) | check accounts by username on 1500 sites. Based on maigret CLI tool |
 | [Analyzeid.com Username Search](https://analyzeid.com/username/) | view "Summary" of accounts found: list of names used, locations, bio, creations dates etc. |
@@ -1627,7 +1626,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#phone-numbers)Phone numbers
 ===============================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [USA Telephone Directory Collection](https://www.loc.gov/collections/united-states-telephone-directory-collection/) | 3512 of paper "yellow" and "white" pages available for download in PDF published from 1887 to 1987 |
 | [Oldphonebook](http://www.oldphonebook.com/) | USA phonenumbers database from 1994 to 2014 |
@@ -1639,7 +1638,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#universal-contact-search-and-leaks-search)Universal Contact Search and Leaks Search
 =======================================================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler) | Get emails, social medias, adresses of peoples using web scraping and google dorking |
 | [SingleHire](https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079) | Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile |
@@ -1665,7 +1664,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#sock-puppets)Sock Puppets
 =============================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Rug](https://github.com/rly0nheart/rug) | Extreme simple tool for generating random user data. |
 | [Face Generator](https://generated.photos/face-generator/) | Face Generator for creating #sockpuppets. Customize gender, age, head position, emotions, hair and skin color, makeup and glasses. |
@@ -1698,7 +1697,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#noosint-tools)NOOSINT tools
 ===============================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Annotely](https://annotely.com/editor) | Perfectly simple tool for putting an arrow on a screenshot, highlighting some detail or blurring personal data. |
 | [Pramp](https://www.pramp.com/) | The service allows you to take five free (!) online #coding and #productmanagement interview training sessions with peers |
@@ -1719,7 +1718,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#visualization-tools)Visualization tools
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Jsoncrack](https://jsoncrack.com/) | Online tool for visualizing, editing and searching for text in JSON files. With the ability to save, export and share results via a link. |
 | [Jsonvisio](https://jsonvisio.com/) | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
@@ -1730,7 +1729,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#routinedata-extraction-automation)Routine/Data Extraction Automation
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Scrapersnbots](https://www.scrapersnbots.com/webtools/) | A collection of a wide variety of online tools for #osint and not only: search for users with a specific name on different sites, one domain #Google Image search, YouTube tags viewer, url-extractor and much more |
 | [Manytools](https://manytools.org) | Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking. |
@@ -1744,7 +1743,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#browser-analyze)Browser analyze
 ===================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Web history stat](https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related) | detailed statistics of your browser history |
 | [coveryourtracks.eff.org](https://coveryourtracks.eff.org) | can tell a lot about your browser and computer, including showing a list of installed fonts on the system. |
@@ -1754,7 +1753,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#files)Files
 ===============
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Grep for OSINT](https://github.com/cipher387/grep_for_osint) | simple toolkit that helps to quickly extract "important data" (phone numbers, email addresses, URLs) from the text / file directory |
 | [Diffnow.com](http://diffnow.com) | Compares and finds differences in text, URL (html code downloaded by link), office documents (doc, docx, xls, xlsx, ppt, pptx), source code (C, C++, C#, Java, Perl, PHP and other), archives (RAR, 7-zip etc). |
@@ -1777,7 +1776,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#imei-and-serial-numbers)IMEI and serial numbers
 ===================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Checking MI account](https://www.checkmi.info/) |     |
 | [Contex condoms serial number lookup](https://contex.com/serial-number-lookup/) |     |
@@ -1786,7 +1785,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#nft)NFT
 ===========
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Nonfungible.com](https://nonfungible.com) | help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time) |
 | [Numbers](https://nftsearch.site/) | Search NFT by Content ID, Commit hash, keywords or uploaded photo. |
@@ -1794,7 +1793,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#keywords-trends-news-analytics)Keywords, trends, news analytics
 ===================================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Wordstat.yandex.ru](https://wordstat.yandex.ru/) | the estimated number of Yandex searches in the coming month for different keywords |
 | [Trends Google](https://trends.google.com/trends/) |     |
@@ -1807,7 +1806,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#apps-and-programs)Apps and programs
 =======================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Google Play Scraper](https://github.com/facundoolano/google-play-scraper) | get the most detailed |
 | [App Store Scraper](https://github.com/facundoolano/app-store-scraper) | get the most detailed metadata about the app from AppStore |
@@ -1815,7 +1814,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#company-information-search)Company information search
 =========================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Lei.bloomberg.com](https://lei.bloomberg.com/search?.=1&.=-lastUpdateDate&.=&.=&.=%5B%5D&ts=2447821118) | search information about company by Legal Identify Number |
 | [990 finder](https://candid.org/research-and-verify-nonprofits/990-finder) | Enter the company name and select the state to get a link to download its 900 form. |
@@ -1834,7 +1833,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#bank-information-search)Bank information search
 ===================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [FDIC search](https://banks.data.fdic.gov/bankfind-suite/bankfind) | Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it |
 | [Iban.com](https://www.iban.com/iban-checker) | Check the validity of the IBAN (International Bank Account Number) of the company and see the information about the bank where it is serviced |
@@ -1844,7 +1843,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#brandtrademark-information-search)Brand/trademark information search
 ========================================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [WIPO.int](https://www3.wipo.int/branddb/en/) | Global Brands Database (46,020,000 records) |
 | [TMDN Design View](https://www.tmdn.org/tmdsview-web/) | Search 17 684 046 products designs across the European Union and beyond |
@@ -1853,7 +1852,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#tendershipment-information-search)Tender/shipment information search
 ========================================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [TendersInfo](https://www.tendersinfo.com) | Search tenders around the world by keywords. |
 | [Barcode lookup](https://www.barcodelookup.com/) |     |
@@ -1862,7 +1861,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#amazon)Amazon
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Amazon Scraper](https://github.com/scrapehero-code/amazon-scraper) | scraped detail information about list of items |
 | [Amazon ASIN Finder](https://amazon-asin.com/) |     |
@@ -1871,7 +1870,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#movies)Movies
 =================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Reelgood.com](https://reelgood.com/) | search engine for more than 300 free and paid streaming services (Netflix, Amazon Prime Video, HBO, BBC, DisneyPlus) |
 | [IMCDB](http://imcdb.org) | Internet Movie Cars Database |
@@ -1883,7 +1882,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 
 ### [](#netflix)Netflix
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Unogs.com](http://unogs.com/) | Netflix search without registration |
 | [flixable.com](http://flixable.com) | alternative way to find anything interesting on Netflix |
@@ -1897,7 +1896,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#tvradio)TV/Radio
 ====================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Radion.net](https://www.radio.net/local-stations) | view list of all radiostations near your location and search radiostations by keywords |
 | [American Archive of Public Broadcasting](https://americanarchive.org) | Discover historic programs of publicly funded radio and television across America. Watch and listen |
@@ -1908,7 +1907,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#tools-collectionstoolkits)Tools collections/toolkits
 ========================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Osint Search Tools](https://osint.hopain.cyou/index.html) | Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes... |
 | [Scrummage](https://github.com/matamorphosis/Scrummage) | Ultimate OSINT and Threat Hunting Framework |
@@ -1962,7 +1961,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#databases-and-data-analyzes)Databases and data analyzes
 ===========================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Cronodump](https://github.com/alephdata/cronodump) | When searching for information about citizens of Ukraine, Russia and other CIS countries, often have to deal with leaked databases for the Cronos program (used in government organizations). This simple utility generates Cronos files in CSV. |
 | [Jsonvisio](https://jsonvisio.com/) | Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex #JSON files. |
@@ -1972,7 +1971,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#online-os-emulators)Online OS Emulators
 ===========================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Windows 10 Online Emulator](https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init) |     |
 | [Parrot Security OS Online Emulator](https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online) |     |
@@ -1980,7 +1979,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#virtual-machineslinux-distributions)Virtual Machines/Linux distributions
 ============================================================================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Offen Osint](https://github.com/Double2Sky/OffenOsint) |     |
 | [BlackArch Linux](https://www.blackarch.org) |     |
@@ -2005,7 +2004,7 @@ Hello! On my Twitter account [@cyb_detective](https://twitter.com/cyb_detective)
 [](#my-projects)My Projects
 ===========================
 
-| Link | Description |
+| リンク | 詳細 |
 | --- | --- |
 | [Python OSINT automation examples](https://github.com/cipher387/Python-osint-automation-examples) | In this repository, I will collect quick and simple code examples that use Python to automate various #osint tasks.  |
 | [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) |     |
