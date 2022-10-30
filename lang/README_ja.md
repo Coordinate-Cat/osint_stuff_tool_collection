@@ -6,7 +6,7 @@
      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fosint_stuff_tool_collection&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
      <br>
      <br>
-     <p>EN | <a href="">JA</a></p>
+     <p><a href="https://github.com/cipher387/osint_stuff_tool_collection">EN</a> | <a href="https://github.com/Coordinate-Cat/osint_stuff_tool_collection/tree/main/lang/README_ja.md">JA</a></p>
 </div>
 
 こんにちは！私の Twitter アカウント[@cyb_detective](https://twitter.com/cyb_detective)では、さまざまなサービス、テクニック、トリック、OSINT に関するメモなどを投稿しています。コレクションに関するツイートからすべてのリンクを掲載しています(既にさまざまな目的で1000以上のサービスがあります)。
@@ -16,7 +16,7 @@
     - [ソーシャルメディアと写真](#social-media-and-photos)
     - [自然](#nature)
     - [航空](#aviation)
-    - [海自](#maritime)
+    - [海事](#maritime)
     - [鉄道](#railway)
     - [経路](#routes)
     - [政治、紛争、危機](#politics-conflicts-and-crisis)
@@ -215,19 +215,19 @@
 | [Transtats.bts.gov](https://transtats.bts.gov/ONTIME/) | フライトスケジュールと、米国での30年以上にわたるフライトの実際の出発/到着時間に関するデータです。 |
 | [Legrooms for Google Flights](https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related) | フライト情報の横に座席間の足元の広さを表示する拡張機能。 |
 
-### [](#maritime)Maritime
+### [](#maritime) 海事
 
-| リンク 詳細
+| リンク | 詳細 |
 | --- | --- |
-| [Track Trace](https://www.track-trace.com/container) | tracking a shipping container by number |
-| [Container Tracking](http://container-tracking.org/) | tracking a shipping container by number |
-| [Searates container tracking](https://www.searates.com/container/tracking/) | tracking a shipping container by number |
-| [CMA Voyage Finder](https://www.cma-cgm.com/ebusiness/schedules/voyage) | search for voyage details by voyage number or ship name |
-| [The Shipping Database](https://theshippingdatabase.com/) | comprehensive archive of the world ships. There is even data for 1820!!!!!!! |
-| [Submarinecablemap.com](https://www.submarinecablemap.com/) | submarine communications cables map |
+| [Track Trace](https://www.track-trace.com/container) | 番号による輸送コンテナの追跡をする。 |
+| [Container Tracking](http://container-tracking.org/) | 番号による輸送コンテナの追跡をする。 |
+| [Searates container tracking](https://www.searates.com/container/tracking/) | 番号による輸送コンテナの追跡をする。 |
+| [CMA Voyage Finder](https://www.cma-cgm.com/ebusiness/schedules/voyage) | 航海番号または船名で航海の詳細を検索する。 |
+| [The Shipping Database](https://theshippingdatabase.com/) | 世界の船の包括的なアーカイブ。1820年のデータもあります!!!!!!!! |
+| [Submarinecablemap.com](https://www.submarinecablemap.com/) | 海底通信ケーブルマップ。 |
 | [Submarine Vessels Tracking Map](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map) |     |
-| [Ports.com](https://ports.com/sea-route/) | online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes. |
-| [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator |
+| [Ports.com](https://ports.com/sea-route/) | 2つの港間の旅行時間のオンライン計算 (最適なパスを使用)。5ノットから40ノットまで速度を選択できます。通過する海域の一覧を表示します。 |
+| [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | クルーズ船の調査資料の大規模なカタログ: トラッカー付きの地図、時刻表、デッキと港のウェブカメラ、精巧なテーマ別ニュース収集。 |
 
 ### [](#railway)Railway
 
@@ -2043,3 +2043,7 @@ Command line cheat sheet for this collection made by [Coordinat Cat](https://git
 [Discord](https://cipher387.github.io/discordlink.html)
 
 * * *
+
+| JP-Translator/Maintainer |
+|-|
+|@Coordinate-Cat|
