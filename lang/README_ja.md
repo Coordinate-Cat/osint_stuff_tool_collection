@@ -229,36 +229,36 @@
 | [Ports.com](https://ports.com/sea-route/) | 2つの港間の旅行時間のオンライン計算 (最適なパスを使用)。5ノットから40ノットまで速度を選択できます。通過する海域の一覧を表示します。 |
 | [Live Cruise Ship Tracker](https://www.livecruiseshiptracker.com/) | クルーズ船の調査資料の大規模なカタログ: トラッカー付きの地図、時刻表、デッキと港のウェブカメラ、精巧なテーマ別ニュース収集。 |
 
-### [](#railway)Railway
+### [](#railway) 鉄道
 
 | リンク | 詳細 |
 | --- | --- |
-| [Amtrak Status Maps Archive Database](https://juckins.net/amtrak_status/archive/html/history.php) | find out the train schedule for a station on a particular day that passed many years ago (since 2008) |
+| [Amtrak Status Maps Archive Database](https://juckins.net/amtrak_status/archive/html/history.php) | 何年も前(2008年以降)の特定の日の駅の時刻表を調べます。 |
 | [Europe station maps floor plan](https://www.nsinternational.com/en/stations/station-maps-floor-plan) |     |
-| [Rasp.yandex.ru/map/trains](https://rasp.yandex.ru/map/trains) | Live map of trains for Russia, Belarus, Ukraine, Kazahstan and Abhazia |
-| [Chronotrains](https://chronotrains-eu.vercel.app/) | A terrific weekend travel planning service for Europeans. It shows how far you can go from a certain station in 5 hours by train. |
-| [Direkht Ban Guru](https://direkt.bahn.guru/) | Enter the name of the station to see what cities you can get to by train without changing (+ travel time for each city). |
+| [Rasp.yandex.ru/map/trains](https://rasp.yandex.ru/map/trains) | ロシア、ベラルーシ、ウクライナ、カザフスタン、アブハジアの列車のライブマップ。 |
+| [Chronotrains](https://chronotrains-eu.vercel.app/) | ヨーロッパ人向けのすばらしい週末旅行計画サービス。ある駅から電車で5時間でどれだけ行けるかを示します。 |
+| [Direkht Ban Guru](https://direkt.bahn.guru/) | 駅名を入力すると、乗り換えなしで電車で行ける都市が表示されます (+ 各都市の所要時間)。 |
 
-### [](#routes)Routes
+### [](#routes) 経路
 
 | リンク | 詳細 |
 | --- | --- |
 | [Ride With GPS](https://ridewithgps.com/users) |     |
-| [Wandermap](http://www.wandermap.net/en/#/z15/55.7522011,37.6156006/terrain) | hiking routes world map |
-| [Runmap](http://www.runmap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain) | running routes world map |
-| [Bikemap](https://www.bikemap.net/) | biking route world map |
+| [Wandermap](http://www.wandermap.net/en/#/z15/55.7522011,37.6156006/terrain) | ハイキングルートの世界地図 |
+| [Runmap](http://www.runmap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain) | ランニングルート世界地図 |
+| [Bikemap](https://www.bikemap.net/) | サイクリングルートの世界地図 |
 
-### [](#politics-conflicts-and-crisis)Politics, conflicts and crisis
+### [](#politics-conflicts-and-crisis) 政治、紛争、危機
 
 | リンク | 詳細 |
 | --- | --- |
-| [Freedomhouse.org](http://freedomhouse.org/explore-the-map) | map of the world that shows the scores of different countries on the following indicators (on a scale of 1 to 100) |
-| [Crimemapping.com](https://www.crimemapping.com/) | pick a state, a police agency, and what crimes and where were committed in the territory under its control in the last 24 hours, a week, or a month. |
-| [Citizen.com](https://citizen.com/explore) | live map of incidents (mainly shooting) that happened in the last hours in major U.S. cities |
-| [MARITIME AWARENESS PROJECT](https://map.nbr.org/interactivemap/) | detailed map of maritime borders of states, economic zones with statistical data on ports and many other objects |
+| [Freedomhouse.org](http://freedomhouse.org/explore-the-map) | 様々な指標(1から100のスケール)を元に国のスコアを示す世界地図 |
+| [Crimemapping.com](https://www.crimemapping.com/) | 州、警察機関、および過去 24 時間、1 週間、または 1 か月間にその管理下にある地域でどのような犯罪がどこで行われたかを選択します。 |
+| [Citizen.com](https://citizen.com/explore) | 米国の主要都市で過去数時間に発生した事件(主に銃撃)のライブマップ |
+| [MARITIME AWARENESS PROJECT](https://map.nbr.org/interactivemap/) | 家間の海洋境界線、経済圏、港湾の統計データなど、詳細な地図。 |
 | [Monitor Tracking Civic Space Worldwide Map](https://monitor.civicus.org) | Civicus (@CIVICUSalliance) |
-| [Hungermap](https://hungermap.wfp.org) | Worldwide Hunger Map |
-| [Native-land.ca](https://native-land.ca/) | click on the point on the map and find out: - what nation this area used to belong to; - what language was once spoken there; - a historical event that resulted in a nation losing their territory. |
+| [Hungermap](https://hungermap.wfp.org) | 世界の飢餓マップ |
+| [Native-land.ca](https://native-land.ca/) | 地図上のポイントをクリックすると、次のことがわかります。- その地域がかつてどの国に属していたか、 - かつてそこで話されていた言語は何か、 - ある国が領土を失うことになった歴史的な出来事。 |
 | [RiskMap](https://www.riskmap.com/) |     |
 | [Liveuamap](https://liveuamap.com/) |     |
 | [Crisisgroup](https://www.crisisgroup.org/crisiswatch) |     |
@@ -266,33 +266,33 @@
 | [emmeline.carto.com](https://emmeline.carto.com/me) |     |
 | [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/?category=us) |     |
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
-| [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
+| [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | 国や地域をクリックすると、過去6ヶ月間に報告された違法な国境通過の件数が表示されます。 |
 
-### [](#culture)Culture
-
-| リンク | 詳細 |
-| --- | --- |
-| [Taste Atlas](https://www.tasteatlas.com/) | Worldwide online map of national cuisine. There are thousands of dishes typical of countries or regions as a whole, as well as small towns. |
-
-### [](#urban-and-industrial-infrastructure)Urban and industrial infrastructure
+### [](#culture)　文化
 
 | リンク | 詳細 |
 | --- | --- |
-| [Wheelmap.org](https://wheelmap.org) | map shows public places that are accessible and partially accessible to #wheelchair users |
-| [Pedestriansfirst](https://pedestriansfirst.itdp.org/) | Evaluate the pedestrian friendliness of streets in different cities. There is a lot of detailed data that will be useful both for choosing a place to live and for a variety of research |
-| [World Population Density Map](https://luminocity3d.org/WorldPopDen/) | Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages |
-| [Emporis Buildings Map](https://www.emporis.com/buildings/map) | world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose |
-| [Osmbuildings.org](https://osmbuildings.org/) | world map showing notable buildings. For each object you can find out the height, type, and purpose. |
-| [Find Food Support](https://findfoodsupport.withgoogle.com/) | find places where you can get free food by address (USA) |
-| [Aqicn](https://aqicn.org/map/world/) | Air pollution gauges on the map |
-| [Average Gamma Dose Rate Map](https://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html) | Shows measurements of environmental radioactivity in the form of gamma dose rate for the last 24 hours. These measurements originate from some 5500 stations in 39 countries |
-| [Poweroutage](https://poweroutage.com/) | Map with real-time power outage statistics by country and region. |
-| [Open Benches](https://openbenches.org/) | Worldwide map of 22,756 memorial benches (added by users). |
-| [Sondehub](https://sondehub.org/) | Worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and much more) |
-| [The Meddin Bike-sharing World Map](https://bikesharingworldmap.com/) | 8 million+ bikes in one map. There is information about rental stations that have recently closed or suspended their activities. |
-| [Rally Maps](https://www.rally-maps.com/map) | A worldwide map showing thousands of race (regular and one-off) locations. It's possinle to find names of winners, routes, dates and other detailed information (historical data from the 1970s is available). |
+| [Taste Atlas](https://www.tasteatlas.com/) | 世界各国の料理のオンラインマップ。国や地域全体、また小さな町の典型的な料理が何千もあります。 |
 
-### [](#worldwide-street-webcams)Worldwide street webcams
+### [](#urban-and-industrial-infrastructure) 都市、産業インフラ
+
+| リンク | 詳細 |
+| --- | --- |
+| [Wheelmap.org](https://wheelmap.org) | マップは、#車椅子ユーザーがアクセスできる公共の場所と部分的にアクセスできる場所を示しています。 |
+| [Pedestriansfirst](https://pedestriansfirst.itdp.org/) | さまざまな都市の街路の歩行者の利便性を評価します。住む場所を選ぶときにも、さまざまな調査に役立つ詳細なデータがたくさんあります。 |
+| [World Population Density Map](https://luminocity3d.org/WorldPopDen/) | 非常に詳細なデータです。国別、都市別だけでなく、個々の大都市圏、市町村別の密度を見ることが可能です。 |
+| [Emporis Buildings Map](https://www.emporis.com/buildings/map) | 世界各地の注目すべき建物を紹介する世界地図です。各物件について、高さ、階数、種類、用途を調べることができます。 |
+| [Osmbuildings.org](https://osmbuildings.org/) | 世界各地の注目すべき建物を紹介する世界地図です。各物件について、高さ、種類、用途を調べることができます。 |
+| [Find Food Support](https://findfoodsupport.withgoogle.com/) | 住所でタダ飯屋を探す（アメリカ） |
+| [Aqicn](https://aqicn.org/map/world/) | 地図上の大気汚染測定器 |
+| [Average Gamma Dose Rate Map](https://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html) | 過去24時間の環境放射能測定値をガンマ線量率という形で表示しています。これらの測定は、39カ国、約5500の観測所から発信されています。 |
+| [Poweroutage](https://poweroutage.com/) | 国・地域別の停電統計をリアルタイムで表示した地図。 |
+| [Open Benches](https://openbenches.org/) | 世界の22,756の記念ベンチの地図（ユーザーによる追加）。 |
+| [Sondehub](https://sondehub.org/) | 世界各地のラジオゾンデの地図と詳細情報（高度、座標、周波数、メーカー、ゾンデの種類など）。 |
+| [The Meddin Bike-sharing World Map](https://bikesharingworldmap.com/) | 800万台以上のバイクを1つの地図に。最近閉鎖されたり、活動を停止しているレンタルステーションの情報もあります。 |
+| [Rally Maps](https://www.rally-maps.com/map) | 世界各地のレース（定期戦、単発戦）の開催地がわかる地図です。優勝者名、ルート、開催日など詳細な情報を確認できます（1970年代からのヒストリカルデータもあります）。 |
+
+### [](#worldwide-street-webcams) 世界のストリートカメラ
 
 | リンク | 詳細 |
 | --- | --- |
@@ -304,82 +304,82 @@
 | [Worldcam.eu](https://worldcam.eu/) |     |
 | [Worldcams TV](https://worldcams.tv/) |     |
 | [Geocam](https://www.geocam.ru/en/) |     |
-| [Live beaches](https://www.livebeaches.com/australia/) | Beaches webcam only |
+| [Live beaches](https://www.livebeaches.com/australia/) | ビーチのウェブカメラのみ |
 | [Opentopia](http://www.opentopia.com/) |     |
 | [MangolinkWorld](https://www.mangolinkworld.com/) |     |
 | [FoxMonitor](https://www.foxmonitor.com/) |     |
-| [WEBCAM CSE](https://cipher387.github.io/webcamcse/) | Google Custom Search Engine for search in 10 online street webcam catalogs |
+| [WEBCAM CSE](https://cipher387.github.io/webcamcse/) | Googleカスタム検索エンジンで、10種類のオンラインストリートウェブカメラカタログを検索可能 |
 
-### [](#tools)Tools
-
-| リンク | 詳細 |
-| --- | --- |
-| [Calculator IPVM](https://calculator.ipvm.com/) | A tool that shows how the image from an outdoor camera it will look (based on data from Google Street View). You can specify camera parameters or select a model from a list (9188 cameras). |
-| [Osmaps Radius](http://jopf.re/osmaps-radius/) | drawing circles with a certain radius on the map |
-| [MeasureTool-GoogleMaps-V3](http://zhenyanghua.github.io/MeasureTool-GoogleMaps-V3/) | Measurement tool for #GoogleMaps. |
-| [ACSDG](https://www.acscdg.com/) | tool allows you to quickly mark a group of points on the map and then export their geographic coordinates to CSV. |
-| [MeasureMapOnline](https://app.measuremaponline.com/dashboard/overview) | tool for drawing rectangles, circles and complex polygons on a world map to measure their area and perimeter |
-| [Map Fight](https://mapfight.xyz/browse/) | compare size of two countries |
-| [Presto Map lead extractor](https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related) | Converts information about labels on Google Maps to CSV or XLSX |
-| [Gmaps Extractor](https://chrome.google.com/webstore/detail/g-map-extractor/eehgalnhbmkfalhdjkeenggnniebdpgi/related) | Extract data from placemarks |
-| [GPS Visualizer](https://www.gpsvisualizer.com/) | show gpx and tcx files on map |
-| [Map Checking](https://www.mapchecking.com/) | tool for measuring the number of people in a crowd of different area and density. |
-| [Mapnificent](https://www.mapnificent.net/) | Choose a city on the world map, then select an address on the map and see what places you can get to by public transport in a certain time interval (range from 1 to 90 minutes) |
-| [Cesium ion](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe) | scalable and secure platform for 3D geospatial data. Upload your content and Cesium ion will optimize it as 3D Tiles, host it in the cloud, and stream it to any device |
-| [OSM Smart Menu](https://chrome.google.com/webstore/detail/osm-smart-menu/icipmdhgbkejfideagkhdebiaeohfijk/related) | Google Chrome extension to switch between dozens of different types of online maps (based on #OpenStreetMap and NOT only) |
-| [Calcmaps](https://www.calcmaps.com/) | Simple online map tools: Calculate area (triangles, quadrilaterals and complex polygons), Calculate distance (for complex routes), Measure radius, Calculate elevation |
-| [Scribble maps](https://www.scribblemaps.com/) | Partly free online tool for creating infographics (images or pdf) based on maps. |
-| [Gdal3.js.org](https://gdal3.js.org/) | One of the main problems of using geospatial data in investigations is the large number of applications for working with it, which save the result in different formats. This multifunctional online geodata converter will help to solve it. |
-| [Google Maps Timeline Exporter](https://chrome.google.com/webstore/detail/timeline-exporter/afalbippddliaaomolohcbfogogbjpkk/related) | If your Google account has once enabled collecting data about your location (link for checking https://timeline.google.com/maps/timeline), this extension will help you analyze your movement data in depth, and export it to CSV. |
-| [localfocus.nl/geokit](https://www.localfocus.nl/geokit/) | geographic toolkit for investigative journalists |
-| [Google Maps Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj) | Enter search terms (ex "Boston museum") and scrape adresses, phone, websites and other place info from Google Maps. |
-
-### [](#transport)Transport
+### [](#tools) ツール
 
 | リンク | 詳細 |
 | --- | --- |
-| [Venicle Number Search Toolbox](https://cipher387.github.io/venicle_number_search_toolbox/) | search information about car by venicle numbers (14 different countries from one page) - #GreatBritain, #Norway, #Denmark, #Russian and others |
-| [Transit Visualisation Client](https://tracker.geops.ch) | real time info about public transport in 739 cities and towns in the dozens of countries |
-| [Collection of public transport maps](https://cipher387.github.io/public_transport_maps/) | 20 online public transport maps (most real-time) for different cities and countries around the world |
-| [WorldLicensePlates](http://www.worldlicenseplates.com/) | graphic index of license plates of different countries of the world |
-| [Openrailwaymap](https://openrailwaymap.org/) | Map of the world with information about the railroad tracks. It's possible to visualize maximum speed, electrification, track gauge, and other parameters. |
+| [Calculator IPVM](https://calculator.ipvm.com/) | 屋外カメラからの映像がどのように見えるかを示すツール（Googleストリートビューのデータを基に作成）。カメラのパラメータを指定したり、リストから機種を選択することができます（9188台のカメラ）。 |
+| [Osmaps Radius](http://jopf.re/osmaps-radius/) | 地図上に円描画するツール。 |
+| [MeasureTool-GoogleMaps-V3](http://zhenyanghua.github.io/MeasureTool-GoogleMaps-V3/) | GoogleMapsの計測ツールです。 |
+| [ACSDG](https://www.acscdg.com/) | このツールを使えば、地図上の地点のグループを素早くマークし、その地理座標をCSVに書き出すことができます。 |
+| [MeasureMapOnline](https://app.measuremaponline.com/dashboard/overview) | 世界地図上に長方形、円、複雑な多角形を描き、その面積や周囲長を測定するツールです。 |
+| [Map Fight](https://mapfight.xyz/browse/) | 二つの国のサイズを比べる |
+| [Presto Map lead extractor](https://chrome.google.com/webstore/detail/presto-map-lead-extractor/ljnhdpilgapdpecpbpdiideeknfpkiih/related) | Google Maps上のラベル情報をCSVまたはXLSXに変換します。 |
+| [Gmaps Extractor](https://chrome.google.com/webstore/detail/g-map-extractor/eehgalnhbmkfalhdjkeenggnniebdpgi/related) | マークした場所からデータを抽出する |
+| [GPS Visualizer](https://www.gpsvisualizer.com/) | gpx、tcxファイルを地図上に表示する。 |
+| [Map Checking](https://www.mapchecking.com/) | 面積や密度の異なる群衆の中の人数を測定するためのツールです。 |
+| [Mapnificent](https://www.mapnificent.net/) | 世界地図上の都市を選択し、地図上の住所を選択すると、一定の時間間隔（1分から90分の範囲）で公共交通機関を使ってどのような場所に行けるかを確認できる。 |
+| [Cesium ion](https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe) | 3D地理空間データのためのスケーラブルで安全なプラットフォームです。コンテンツをアップロードすると、Cesium ionはそれを3Dタイルとして最適化し、クラウドでホストし、あらゆるデバイスにストリーミングすることができます。 |
+| [OSM Smart Menu](https://chrome.google.com/webstore/detail/osm-smart-menu/icipmdhgbkejfideagkhdebiaeohfijk/related) | 数十種類のオンラインマップを切り替えるGoogle Chrome拡張機能（#OpenStreetMapとNOTのみをベースとする） |
+| [Calcmaps](https://www.calcmaps.com/) | シンプルなオンライン地図ツールです。面積計算（三角形、四角形、複合多角形）、距離計算（複雑なルート）、半径の測定、標高の計算 |
+| [Scribble maps](https://www.scribblemaps.com/) | 地図をもとにしたインフォグラフィックス（画像やPDF）を作成するための一部無料のオンラインツールです。 |
+| [Gdal3.js.org](https://gdal3.js.org/) | 地理空間データを調査に利用する際の大きな問題の1つは、それを扱うアプリケーションが数多く存在し、結果を異なるフォーマットで保存してしまうことです。この多機能なオンラインジオデータコンバータは、それを解決するのに役立ちます。 |
+| [Google Maps Timeline Exporter](https://chrome.google.com/webstore/detail/timeline-exporter/afalbippddliaaomolohcbfogogbjpkk/related) | Googleアカウントで位置情報の収集が有効になっている場合（確認用リンク：https://timeline.google.com/maps/timeline）、この拡張機能を使うと、移動データを詳細に分析したり、CSVにエクスポートしたりすることが可能です。 |
+| [localfocus.nl/geokit](https://www.localfocus.nl/geokit/) | 調査報道用地理的ツールキット |
+| [Google Maps Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj) | 検索キーワード（例：「ボストン美術館」）を入力すると、Googleマップから住所、電話番号、Webサイト、その他の場所情報を取得することができます。 |
 
-### [](#communications-internet-technologies)Communications, Internet, Technologies
-
-| リンク | 詳細 |
-| --- | --- |
-| [Opencellid.org](https://opencellid.org/) | the world's largest Open Database of Cell Towers |
-| [API mylnikov.org](https://www.mylnikov.org/) | get lattitude and longitude by WiFI BBSID |
-| [nperf.com/map](http://nperf.com/en/map) | view the coverage area of different #cellular operators in different countries |
-| [nperf.com/map/5g](https://www.nperf.com/en/map/5g) | 5G coverage #map worldwide |
-| [Vincos.it](http://vincos.it/world-map-of-social-networks) | world social media popularity map |
-| [app.any.run](https://app.any.run) | interactive worldwide map of cyber threats statistics (last 24 hour) |
-| [Web Cam Taxi](https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html) | open webcams around the world |
-| [Radio Garden](http://radio.garden/visit/moscow/MQfEnBji) | select a local radio station on the world map and listen to what's playing at the moment |
-| [TorMap](https://twitter.com/cyb_detective/status/1536682540265873408) | Worldwide online map of Tor Nodes |
-| [GeoWiFi](https://github.com/GONZOsint/geowifi) | Search WiFi geolocation data by BSSID and SSID on different public databases (Wigle, Apple, OpenWifi, API Mylnikov). |
-| [GPSJam](https://gpsjam.org/) | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
-
-
-### [](#anomalies-and-lost-places)Anomalies and "Lost Places"
+### [](#transport) 輸送
 
 | リンク | 詳細 |
 | --- | --- |
-| [Argis UFO map](https://www.arcgis.com/apps/View/index.html?appid=6cd609921ebc44ff914a4e8059813b16) | UFO sightings interactive map. USA only |
-| [Bigfoot and UFO map](https://www.google.com/maps/d/viewer?msa=0&mid=1PX4dE4ZRFR8pEnc2xHATGQe1rDA&ll=33.679013212530805%2C-38.36085893876531&z=3) | Bigfoot, UFO and other sightings around USA and Europe |
-| [The Haunted map](https://www.google.com/maps/d/viewer?mid=1PdxFMPxgBmXdjMsusb-O2k074ok&hl=en&ll=45.17177063794067%2C7.41628581553573&z=5) | A map of haunted locations where ghost sightings have been reported around the world.  Based by data from http://ghostresearchinternational.com |
-| [Lost places map](https://www.google.com/maps/d/viewer?mid=1M6OeH-DCWCLHGLQ2_CiGPd0aO7IjPHqo&hl=de&ll=50.06460483234834%2C8.681870511153518&z=10) | A map of independent research reports on urban spaces that are published in the Lost places Facebook community |
-| [Bigfoot Sightings and Density of the US with Biomes](https://www.arcgis.com/apps/View/index.html?appid=f987f36187c140aeab6eb157e909eb64) | Bigfoot sightings reports density around the USA |
-| [BFRO bigfoot sightings database](https://www.bfro.net/gdb/) | This comprehensive database of credible sightings and related reports is maintained by an all-volunteer network of bigfoot/sasquatch researchers, archivists, and investigators in the United States and Canada--the BFRO.|
-| [Haunted places](https://earth.google.com/web/@-7.15227307,116.57647982,-5437.85537383a,22257190.23309946d,35y,0h,0t,0r/data=CjoSOBIgNzgxN2E2YmFhZTA3MTFlN2E3Y2M3M2UxNjM3ZTRhMjMiFGVmX2djc19sb2NhbGd1aWRlc182) | Google Earth map of ghost sightings around the world |
-| [UFO reporting map](https://youmap.com/app/2-ufo-reporting/posts) | YouMap of UFO sightings reporting around the USA |
-| [Australia UFO map 2008](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&ll=-23.514388807757186%2C138.76867076517286&spn=45.197878%2C67.324219&source=embed&mid=1VYlDMJCmxaFm-uOfDfN74Cdr6Vg&z=4) | UFO sigthins Google Map Australia 2008  |
-| [URBEX database map](https://www.urbex.nl/map/) | Europe lost places map based by Urbex database |
-| [Lostplace atlas](https://www.google.com/maps/d/viewer?mid=1yRkY_mc-IpSVTfQgR3G6Pvjno3w&hl=en_US&ll=36.86911339765801%2C22.7511350249344&z=4) | Google map of lost places in Germany and other Europe countries |
+| [Venicle Number Search Toolbox](https://cipher387.github.io/venicle_number_search_toolbox/) | 車に関する情報を自動車登録番号で検索（1ページで14カ国） - #イギリス、#ノルウェー、#デンマーク、#ロシア、他 |
+| [Transit Visualisation Client](https://tracker.geops.ch) | 数十カ国、739の市町村の公共交通機関のリアルタイム情報を提供します。 |
+| [Collection of public transport maps](https://cipher387.github.io/public_transport_maps/) | 世界のさまざまな都市や国の20のオンライン公共交通機関マップ（ほとんどがリアルタイム）。 |
+| [WorldLicensePlates](http://www.worldlicenseplates.com/) | 世界各国のナンバープレート図鑑 |
+| [Openrailwaymap](https://openrailwaymap.org/) | 鉄道の線路に関する情報を記載した世界地図。最高速度や電化率、線路の軌間などを可視化することが可能です。 |
+
+### [](#communications-internet-technologies) 通信、インターネット、技術
+
+| リンク | 詳細 |
+| --- | --- |
+| [Opencellid.org](https://opencellid.org/) | 世界最大級の携帯電話基地局オープンデータベース |
+| [API mylnikov.org](https://www.mylnikov.org/) | WiFI BBSIDによる緯度・経度取得 |
+| [nperf.com/map](http://nperf.com/en/map) | 各国の携帯電話会社のサービスエリアが表示されます。 |
+| [nperf.com/map/5g](https://www.nperf.com/en/map/5g) | 5Gのカバー率 #世界地図 |
+| [Vincos.it](http://vincos.it/world-map-of-social-networks) | 世界ソーシャルメディア人気マップ |
+| [app.any.run](https://app.any.run) | サイバー脅威統計のインタラクティブな世界地図（過去24時間分） |
+| [Web Cam Taxi](https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html) | 世界各地のオープンウェブカメラ |
+| [Radio Garden](http://radio.garden/visit/moscow/MQfEnBji) | 世界地図から地元のラジオ局を選び、今流れている曲を聴くことができます。 |
+| [TorMap](https://twitter.com/cyb_detective/status/1536682540265873408) | 全世界のTorノードオンラインマップ |
+| [GeoWiFi](https://github.com/GONZOsint/geowifi) | 様々な公共データベース（Wigle、Apple、OpenWifi、API Mylnikov）のBSSIDおよびSSIDによるWiFiジオロケーションデータを検索できます。 |
+| [GPSJam](https://gpsjam.org/) | GPSインターフェンス・マップは、特定の日にGPSジャミング・システムが作動する可能性のある場所を示しています（軍事衝突に最もよく関連しています）。 |
+
+
+### [](#anomalies-and-lost-places) 異常と廃墟
+
+| リンク | 詳細 |
+| --- | --- |
+| [Argis UFO map](https://www.arcgis.com/apps/View/index.html?appid=6cd609921ebc44ff914a4e8059813b16) | UFO目撃情報 インタラクティブ・マップアメリカのみ |
+| [Bigfoot and UFO map](https://www.google.com/maps/d/viewer?msa=0&mid=1PX4dE4ZRFR8pEnc2xHATGQe1rDA&ll=33.679013212530805%2C-38.36085893876531&z=3) | アメリカ、ヨーロッパでのビッグフット、UFOなどの目撃情報。 |
+| [The Haunted map](https://www.google.com/maps/d/viewer?mid=1PdxFMPxgBmXdjMsusb-O2k074ok&hl=en&ll=45.17177063794067%2C7.41628581553573&z=5) | 世界中で幽霊の目撃情報が報告されている心霊スポットの地図です。http://ghostresearchinternational.com のデータに基づいています。 |
+| [Lost places map](https://www.google.com/maps/d/viewer?mid=1M6OeH-DCWCLHGLQ2_CiGPd0aO7IjPHqo&hl=de&ll=50.06460483234834%2C8.681870511153518&z=10) | Facebookコミュニティ「Lost places」で公開されている、都市空間に関する自主研究レポートのマップです。 |
+| [Bigfoot Sightings and Density of the US with Biomes](https://www.arcgis.com/apps/View/index.html?appid=f987f36187c140aeab6eb157e909eb64) | アメリカでのビッグフット目撃情報密度 |
+| [BFRO bigfoot sightings database](https://www.bfro.net/gdb/) | このデータベースは、米国とカナダのビッグフット／サスカッチの研究者、記録担当者、調査担当者のボランティアネットワークであるBFROによって管理されています。 |
+| [Haunted places](https://earth.google.com/web/@-7.15227307,116.57647982,-5437.85537383a,22257190.23309946d,35y,0h,0t,0r/data=CjoSOBIgNzgxN2E2YmFhZTA3MTFlN2E3Y2M3M2UxNjM3ZTRhMjMiFGVmX2djc19sb2NhbGd1aWRlc182) | 世界各地の幽霊目撃情報マップ（Google Earth) |
+| [UFO reporting map](https://youmap.com/app/2-ufo-reporting/posts) | アメリカ各地のUFO目撃情報（YouMap） |
+| [Australia UFO map 2008](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&ll=-23.514388807757186%2C138.76867076517286&spn=45.197878%2C67.324219&source=embed&mid=1VYlDMJCmxaFm-uOfDfN74Cdr6Vg&z=4) | UFO目撃 Google Map オーストラリア 2008 |
+| [URBEX database map](https://www.urbex.nl/map/) | Urbexデータベースによるヨーロッパ廃墟マップ |
+| [Lostplace atlas](https://www.google.com/maps/d/viewer?mid=1yRkY_mc-IpSVTfQgR3G6Pvjno3w&hl=en_US&ll=36.86911339765801%2C22.7511350249344&z=4) | ドイツなど欧州の廃墟地図（Google Map |
 
 
 
-### [](#street-view)Street View
+### [](#street-view) ストリートビュー
 
 | リンク | 詳細 |
 | --- | --- |
@@ -388,7 +388,7 @@
 | [360cities.net/map](https://360cities.net/map) | world map of panoramic (360 degrees) images |
 | [Earthviewer360.com](http://earthviewer360.com) | Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail) |
 
-### [](#satelliteaerial-imagery)Satellite/aerial imagery
+### [](#satelliteaerial-imagery) 衛星画像/航空画像
 
 | リンク | 詳細 |
 | --- | --- |
